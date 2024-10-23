@@ -1,0 +1,102 @@
+.d1{
+    width: 100vw;
+    height: 8vh;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Gotham SSm";
+    font-size: 14px;
+    color: rgb(71,71,71);
+}
+
+.body{
+    margin: 0px;
+}
+
+.d2{
+    width: 100vw;
+    height: 92vh;
+    background-color:transparent;
+    position: fixed;
+}
+
+.a{
+    color: rgb(71,71,71);
+    text-underline-offset: 3px;
+}
+
+.i{
+    width: 120px;
+    margin-top: 21px;
+    margin-left: 48px;
+    cursor: pointer;
+}
+
+.item1{
+    color: white;
+    font-family: "Gotham SSm";
+    font-size: 14px;
+    font-weight: 500;
+    display: inline;
+    margin-left: 28px;
+    cursor: pointer;
+}
+
+.list1{
+    margin-top: -20px;
+    margin-left: 277px;
+}
+
+.list2{
+    margin-top: -34px;
+    margin-left: 1047px; 
+}
+
+.text1{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: "Gotham SSm";
+    font-size: 40px;
+    font-weight: 500;
+    margin-top: 30px;
+}
+
+.text2{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: "Gotham SSm";
+    font-size: 14px;
+    margin-top: 8px;
+}
+
+.d3{
+    display: flex;
+    justify-content: center;
+    margin-top: 350px;
+}
+
+.btn{
+    width: 270px;
+    height: 40px;
+    background-color: transparent;
+    color: white;
+    font-family: "Gotham SSm";
+    font-size: 14px;
+    font-weight: bold;
+    border-color: white;
+    border-width: 3px;
+    border-radius: 3px;
+    border-style: solid;
+    cursor: pointer;
+}
+
+.video{
+    width: 100vw;
+    height: 92vh;
+    object-fit: cover;
+    position: fixed;
+}
+
